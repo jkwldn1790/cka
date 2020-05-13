@@ -14,7 +14,7 @@ Certified Kubernetes Administrator (CKA)
 10. Run the `./multipass/start-workers.sh`
 11. Shell into each worker and clone the repository `git clone https://github.com/jkwldn1790/cka.git`
 12. Run the node prep script `./node-prep/node-prep.sh`
-13. Paste the `kubeadm join` command that you saved in step 6
+13. Paste and run the `kubeadm join` command that you saved in step 6
 
 ### Kubeadm Install
 Prerequisites:
